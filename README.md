@@ -1,5 +1,17 @@
 # Zyte E-Commerce Products Compare Skill
  
+## 🚀 What this is
+
+Compare products across the internet using AI + real-time web scraping.
+
+Powered by:
+- Claude (reasoning)
+- Zyte API (data extraction)
+
+## 🔥 Demo Query
+
+Compare iPhone 15:<URL> vs Pixel 8:<URL>
+
 Ever wanted to compare products before buying? While some sites offer product comparison as a built-in feature, what if you want to compare products across different sites? 
 
 Enter product-compare skill, an AI agent skill that extracts structured product data from any e-commerce URL using the [Zyte API](https://www.zyte.com/zyte-api/) and generates side-by-side comparison tables with intelligent purchase recommendations.
