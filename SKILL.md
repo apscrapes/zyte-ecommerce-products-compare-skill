@@ -16,6 +16,15 @@ description: >
 Compare products from any e-commerce site by extracting structured data via the
 Zyte API, building a normalized comparison table, and recommending the best option.
 
+## What it does
+- Searches products across multiple e-commerce sources
+- Extracts price, features, and availability
+- Compares products side-by-side
+- Recommends the best option
+
+## Input
+A natural language product query.
+
 ## Skill structure
 
 ```
